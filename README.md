@@ -1,4 +1,8 @@
 # cloud-app
+Just a simple page for a cloud app in Vue.JS
+![image1]([image link](https://github.com/jasminet2001/cloud-app/blob/master/Screenshot1.jpg))
+
+
 
 ## Project setup
 ```
