@@ -1,6 +1,10 @@
 # cloud-app
 Just a simple page for a cloud app in Vue.JS
-![image1]()
+
+
+![image1](https://github.com/jasminet2001/cloud-app/blob/master/src/assets/cloud1.png)
+![image2](https://github.com/jasminet2001/cloud-app/blob/master/src/assets/cloud2.png)
+![image3](https://github.com/jasminet2001/cloud-app/blob/master/src/assets/cloud3.png)
 
 
 
