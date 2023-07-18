@@ -1,4 +1,8 @@
 # cloud-app
+Just a simple page for a cloud app in Vue.JS
+![image1]()
+
+
 
 ## Project setup
 ```
